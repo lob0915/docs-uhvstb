@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-jfrqwv.cnkitawin.online/sitemap.xml
